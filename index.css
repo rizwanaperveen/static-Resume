@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+    padding: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2px;
+}
+h1{
+    font-size: 60px;
+}
+p,input{
+    margin: 4px;
+    padding: 5px;
+}
+button{
+    background-color: blue;
+    color: antiquewhite;
+    height: 30px;
+    width: 60px;
+    border-radius: 6px;
+}
